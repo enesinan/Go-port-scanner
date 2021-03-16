@@ -5,11 +5,11 @@
 # INSTALLATION
 
 - Clone the repository 
-- https://github.com/enes-dev/Go-port-scanner.git
+git clone https://github.com/enes-dev/Go-port-scanner.git
 - open the terminal type this command
-- cd Go-port-scanner
+  cd Go-port-scanner
 - start your app with this command
-- go run main.go
+  go run main.go
 
 
 # LICENSE

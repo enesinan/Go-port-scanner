@@ -6,10 +6,10 @@
 
 - Clone the repository </br>
 --> git clone https://github.com/enes-dev/Go-port-scanner.git
-- open the terminal type this command
-  cd Go-port-scanner
-- start your app with this command
-  go run main.go
+- open the terminal type this command </br>
+ --> cd Go-port-scanner
+- start your app with this command </br>
+ --> go run main.go
 
 
 # LICENSE

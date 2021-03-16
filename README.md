@@ -8,6 +8,7 @@
 --> git clone https://github.com/enes-dev/Go-port-scanner.git
 - open the terminal type this command </br>
  --> cd Go-port-scanner
+ --> cd PortScanner.go/
 - start your app with this command </br>
  --> go run main.go
 

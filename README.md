@@ -1,5 +1,5 @@
 # Go-port-scanner
- port-scanner example
+ port-scanner example.
 
 
 # INSTALLATION
